@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GuilhermeCoimbra
-- 🌱 I’m currently learning a lot of things
+Guilherme de Ornelas Coimbra
+Cursando 8° Período em Engenharia da Computação
+Conhecimentos Gerais:
+- Inglês Avançado
+- Espanhol Intermediário
+- Excel Básico
+- Programação em C, Java e Ionic Framework
 
-
-<!---
-GuilhermeCoimbra/GuilhermeCoimbra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
